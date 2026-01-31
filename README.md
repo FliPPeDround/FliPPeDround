@@ -1,14 +1,8 @@
-### Hi there 👋
+**[FliPPeDround](https://github.com/flippedround)**
 
-<div>
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-</div>
+**前端开发者** · **开源爱好者** · **正在找工作**
 
-## Visitors Count
+<samp>
+对我的项目感兴趣？查看我的简历 · <a href='https://flipped-resume.netlify.app/'>resume</a>
+</samp>
 
-![gh_visitors](https://profile-counter.glitch.me/flippedround/count.svg)
-
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=flippedround&show_icons=true&theme=tokyonight)
